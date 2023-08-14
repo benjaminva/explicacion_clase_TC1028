@@ -1,2 +1,7 @@
-# explicacion_clase_TC1028
-este es un ejemplo de clase
+Este es mi proyecto, en el cual quiero resolver el problema de ....
+
+
+Los aspectos que voy a considerar son .....
+
+
+las fuentes en las que me basé son ....
